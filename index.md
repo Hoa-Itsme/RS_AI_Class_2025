@@ -8,19 +8,20 @@ This is the homepage for this semester course. Here you can find:
 Please explore the repository, and check the [lectures folder](Lectures/) for your reading materials.
 
 ## Lectures
-[W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
-W2: Software Design Fundamentals.
-W3: Setting Up the Development Environment. 
-W4: Core Data Integration and Preprocessing. 
-W5: User Interface and Experience (GUI). 
-W6: Advanced Data Manipulation and Integration. 
-W7: Deep Learning Integration. 
-W8: GUI Testing, Packaging and Deployment 
-W9: Final Polishing and Mock Presentations. 
-W10: Final Presentations and Course Wrap-Up. 
+- [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
+
+- W2: Software Design Fundamentals
+- W3: Setting Up the Development Environment
+- W4: Core Data Integration and Preprocessing
+- W5: User Interface and Experience (GUI)
+- W6: Advanced Data Manipulation and Integration
+- W7: Deep Learning Integration
+- W8: GUI Testing, Packaging and Deployment 
+- W9: Final Polishing and Mock Presentations
+- W10: Final Presentations and Course Wrap-Up
 
 ## Assignments
-[W1: Getting Started](Assignments/Week1.md) [https://classroom.github.com/a/uAUXO6s8](https://classroom.github.com/a/zOjSlVz-)
+[W1: Getting Started](Assignments/Week1.md) [Accept the assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
 
 
 # Coding Class – This Semester
