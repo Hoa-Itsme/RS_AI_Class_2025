@@ -1,6 +1,6 @@
-# Welcome to the Coding Course!
+# Welcome to the Python Programming for Remote Sensing and Image Processing 2
 
-This is the homepage for my course. Here you can find:
+This is the homepage for this semester course. Here you can find:
 - Lecture slides and notes
 - Homework instructions and due dates
 - Submission guidelines
