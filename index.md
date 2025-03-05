@@ -11,7 +11,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
 
 ## Assignments
-
+[W1: Getting Started](Assignments/W1.md) https://classroom.github.com/a/uAUXO6s8
 
 ## Additional Resources
 - [README](README.md)
