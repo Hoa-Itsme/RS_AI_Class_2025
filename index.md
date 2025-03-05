@@ -7,9 +7,12 @@ This is the homepage for this semester course. Here you can find:
 
 Please explore the repository, and check the [lectures folder](Lectures/) for your reading materials.
 
-## Lectures
-- [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
+## Lectures 2024
 
+- Please explore the repository, and check the [lectures folder](2024_Lectures/) for your reading materials.
+
+## Lectures 2025
+- [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
 - W2: Software Design Fundamentals
 - W3: Setting Up the Development Environment
 - W4: Core Data Integration and Preprocessing
