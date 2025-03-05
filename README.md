@@ -44,11 +44,4 @@ This semester, we will:
 - **Open Issues**: Report bugs, request new features, or ask for clarifications.
 - **Share Ideas**: Collaborate with peers on discussion boards to exchange tips and best practices.
 
-## Contact & Support
-For any questions or additional information, feel free to reach out:
-- Email: [YourEmail@university.edu](mailto:YourEmail@university.edu)
-- Office Hours: By appointment or scheduled times posted on the course website.
-
----
-
 We look forward to an exciting and intensive semester of coding together!
