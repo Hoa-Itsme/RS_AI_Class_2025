@@ -8,7 +8,7 @@ This is the homepage for my course. Here you can find:
 Please explore the repository, and check the [lectures folder](lectures/) for your reading materials.
 
 ## Lectures
-[My PPTX File](CODING_course_Introduction2.pptx)
+[W1: Course Overview and Project Ideal](CODING_course_Introduction2.pptx)
 
 ## Additional Resources
 - [README](README.md)
