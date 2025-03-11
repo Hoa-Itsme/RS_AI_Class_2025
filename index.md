@@ -24,7 +24,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 - W10: Final Presentations and Course Wrap-Up
 
 ## Assignments
-[W1: Getting Started](Assignments/Week1.md) [Accept the assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
+[W1: Getting Started](Assignments/Week1.md) [Accept the assignment and Submit]([https://classroom.github.com/a/zOjSlVz-])
 
 
 # Coding Class – This Semester
