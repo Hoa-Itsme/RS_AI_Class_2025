@@ -13,7 +13,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 ## Lectures 2025
 - [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
-- [W2: Software Design Fundamentals](Lectures/W2 Software Design Fundamentals.pptx)
+- [W2: Software Design Fundamentals](Lectures/W2_Software_Design_Fundamentals.pptx)
 - W3: Setting Up the Development Environment
 - W4: Core Data Integration and Preprocessing
 - W5: User Interface and Experience (GUI)
@@ -25,6 +25,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 ## Assignments
 [W1: Getting Started](Assignments/Week1.md) [Accept the W1 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
+
 [W2: Software Design Fundamentals] [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
 
 # Coding Class – This Semester
