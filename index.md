@@ -25,7 +25,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 ## Assignments
 [W1: Getting Started](Assignments/Week1.md) [Accept the W1 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
-[W2: Software Design Fundamentals] [Accept the W2 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
+[W2: Software Design Fundamentals] [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
 
 # Coding Class – This Semester
 
