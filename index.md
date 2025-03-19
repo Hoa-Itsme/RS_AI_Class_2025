@@ -24,11 +24,11 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 - W10: Final Presentations and Course Wrap-Up
 
 ## Assignments
-[W1: Getting Started](Assignments/Week1.md) [Accept the W1 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
+[W1: Getting Started](Assignments/Week1.md) | [Accept the W1 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
 
-[W2: Software Design Fundamentals] [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
+[W2: Software Design Fundamentals] | [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
 
-[W3: Setting Up The Develepment Environment](Assignments/Week3.md) [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
+[W3: Setting Up The Develepment Environment](Assignments/Week3.md) | [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
 
 # Coding Class – This Semester
 
