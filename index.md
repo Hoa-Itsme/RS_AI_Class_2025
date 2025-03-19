@@ -28,6 +28,8 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W2: Software Design Fundamentals] [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
 
+[W2: Setting Up The Develepment Environment] [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
+
 # Coding Class – This Semester
 
 Welcome to our advanced coding class, where we continue building on concepts from previous semesters and dive deeper into application development, spatial/image analysis, and robust software practices.
