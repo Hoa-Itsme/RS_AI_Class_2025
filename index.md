@@ -14,7 +14,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 ## Lectures 2025
 - [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
 - [W2: Software Design Fundamentals](Lectures/W2_Software_Design_Fundamentals.pptx)
-- W3: Setting Up the Development Environment
+- [W3: Setting Up the Development Environment](Lectures/W3_Setting_Up_the_Development_Environment.pptx)
 - W4: Core Data Integration and Preprocessing
 - W5: User Interface and Experience (GUI)
 - W6: Advanced Data Manipulation and Integration
