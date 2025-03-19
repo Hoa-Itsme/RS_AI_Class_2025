@@ -28,7 +28,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W2: Software Design Fundamentals] [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
 
-[W2: Setting Up The Develepment Environment](Assignments/Week3.md) [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
+[W3: Setting Up The Develepment Environment](Assignments/Week3.md) [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
 
 # Coding Class – This Semester
 
