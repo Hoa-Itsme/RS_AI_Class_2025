@@ -15,7 +15,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 - [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
 - [W2: Software Design Fundamentals](Lectures/W2_Software_Design_Fundamentals.pptx)
 - [W3: Setting Up the Development Environment](Lectures/W3_Setting_Up_the_Development_Environment.pptx)
-- [W4: Core Data Integration and Preprocessing](Lectures/W4_CoreData_Integration _and_Preprocessing.pptx)
+- [W4: Core Data Integration and Preprocessing](Lectures/W4_CoreData_Integration_and_Preprocessing.pptx)
 - W5: User Interface and Experience (GUI)
 - W6: Advanced Data Manipulation and Integration
 - W7: Deep Learning Integration
@@ -30,7 +30,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W3: Setting Up The Develepment Environment](Assignments/Week3.md) | [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
 
-[W4: Core Data Integration and Preprocessing](Assignments/Week4.md) | [Accept the W3 assignment and Submit](https://classroom.github.com/a/l4hIgt0t)
+[W4: Core Data Integration and Preprocessing](Assignments/Week4.md) | [Accept the W4 assignment and Submit](https://classroom.github.com/a/l4hIgt0t)
 
 # Coding Class – This Semester
 
