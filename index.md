@@ -16,7 +16,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 - [W2: Software Design Fundamentals](Lectures/W2_Software_Design_Fundamentals.pptx)
 - [W3: Setting Up the Development Environment](Lectures/W3_Setting_Up_the_Development_Environment.pptx)
 - [W4: Core Data Integration and Preprocessing](Lectures/W4_CoreData_Integration_and_Preprocessing.pptx)
-- [W5: User Interface and Experience (GUI)](Lectures/W5_UserInterFace_and_Experience.pptx)
+- [W5: User Interface and Experience (GUI)](Lectures/W5_UserInterface_and_Experience.pptx)
 - W6: Advanced Data Manipulation and Integration
 - W7: Deep Learning Integration
 - W8: GUI Testing, Packaging and Deployment 
