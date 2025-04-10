@@ -32,6 +32,8 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W4: Core Data Integration and Preprocessing](Assignments/Week4.md) | [Accept the W4 assignment and Submit](https://classroom.github.com/a/l4hIgt0t)
 
+[W5: User Interface and Experience](Assignments/Week5.md) | [Accept the W5 assignment and Submit](https://classroom.github.com/a/cu988C4m)
+
 # Coding Class – This Semester
 
 Welcome to our advanced coding class, where we continue building on concepts from previous semesters and dive deeper into application development, spatial/image analysis, and robust software practices.
