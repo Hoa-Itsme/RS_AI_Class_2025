@@ -34,6 +34,9 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W5: User Interface and Experience](Assignments/Week5.md) | [Accept the W5 assignment and Submit](https://classroom.github.com/a/cu988C4m)
 
+## Check your midterm grade
+[Check your grade](https://classroom.github.com/a/zOjSlVz-)
+
 # Coding Class – This Semester
 
 Welcome to our advanced coding class, where we continue building on concepts from previous semesters and dive deeper into application development, spatial/image analysis, and robust software practices.
