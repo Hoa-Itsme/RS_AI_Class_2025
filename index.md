@@ -34,6 +34,8 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W5: User Interface and Experience](Assignments/Week5.md) | [Accept the W5 assignment and Submit](https://classroom.github.com/a/cu988C4m)
 
+[W6: Advanced Data Manipulation and Integration] | [Accept the W6 assignment and Submit](https://classroom.github.com/a/WxoOwHCC)
+
 ## Check your midterm grade
 [Check your grade](https://classroom.github.com/a/zOjSlVz-)
 
