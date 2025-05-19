@@ -18,7 +18,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 - [W4: Core Data Integration and Preprocessing](Lectures/W4_CoreData_Integration_and_Preprocessing.pptx)
 - [W5: User Interface and Experience (GUI)](Lectures/W5_UserInterface_and_Experience.pptx)
 - [W6: Advanced Data Manipulation and Integration](Lectures/W6_AdvancedDataManipulation_and_Integration.pptx) 
-- W7: Deep Learning Integration
+- [W7: Deep Learning Integration](Lectures/W7_Machine_learning_integration.pptx)
 - W8: GUI Testing, Packaging and Deployment 
 - W9: Final Polishing and Mock Presentations
 - W10: Final Presentations and Course Wrap-Up 
@@ -35,6 +35,8 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 [W5: User Interface and Experience](Assignments/Week5.md) | [Accept the W5 assignment and Submit](https://classroom.github.com/a/cu988C4m)
 
 [W6: Advanced Data Manipulation and Integration] | [Accept the W6 assignment and Submit](https://classroom.github.com/a/WxoOwHCC)
+
+[W7: Machine Learning Integration](Assignments/W7.md)
 
 ## Check your midterm grade
 [Check your grade](https://classroom.github.com/a/zOjSlVz-)
