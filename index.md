@@ -36,8 +36,8 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 
 [W7: Machine Learning Integration](Assignments/W7.md)
 
-## Check your midterm grade
-[Check your grade](https://classroom.github.com/a/zOjSlVz-)
+## Python scripts for Final Exam
+[Access the scripts](Assignments/Final_exam_dataset.md)
 
 # Coding Class – This Semester
 
