@@ -19,9 +19,7 @@ Please explore the repository, and check the [lectures folder](Lectures/) for yo
 - [W5: User Interface and Experience (GUI)](Lectures/W5_UserInterface_and_Experience.pptx)
 - [W6: Advanced Data Manipulation and Integration](Lectures/W6_AdvancedDataManipulation_and_Integration.pptx) 
 - [W7: Deep Learning Integration](Lectures/W7_Machine_learning_integration.pptx)
-- W8: GUI Testing, Packaging and Deployment 
-- W9: Final Polishing and Mock Presentations
-- W10: Final Presentations and Course Wrap-Up 
+- [W8: Final Polishing and Mock Presentations](Lectures/W8_Mock_presentation_and_final_polishing.pptx)
 
 ## Assignments
 [W1: Getting Started](Assignments/Week1.md) | [Accept the W1 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
