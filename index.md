@@ -5,11 +5,11 @@ This is the homepage for this semester’s course. Here you can find:
 - Homework instructions and due dates
 - Submission guidelines
 
-Please explore the repository, and check the [lectures folder](Lectures/) for your reading materials.
+Please explore the repository, and check the [lectures folder](2025_AI_Lectures/) for your reading materials.
 
 ## Lectures 2025
 
-- [W1: No lecture – Course orientation and project overview](Lectures/W1_Course_Orientation_Project_Overview.pptx)
+- [W1: No lecture – Course orientation and project overview](2025_AI_Lectures/Continual Learning AI Assistant.pptx)
 - [W2: Getting started with Ollama, Chatbox, and system prompts]
 - [W3: Collecting domain-specific data for AI training]
 - [W4: Cleaning and formatting data for LoRA training]
