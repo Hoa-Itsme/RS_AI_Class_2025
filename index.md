@@ -1,89 +1,79 @@
-# Welcome to the Python Programming for Remote Sensing and Image Processing 2
+# Remote Sensing: Developing a Domain-Specific AI Assistant
 
-This is the homepage for this semester course. Here you can find:
+This is the homepage for this semester’s course. Here you can find:
 - Lecture slides and notes
 - Homework instructions and due dates
 - Submission guidelines
 
 Please explore the repository, and check the [lectures folder](Lectures/) for your reading materials.
 
-## Lectures 2024
-
-- Please explore the repository, and check the [lectures folder](2024_Lectures/) for your reading materials.
-
 ## Lectures 2025
-- [W1: Course Overview and Project Ideal](Lectures/CODING_course_Introduction2.pptx)
-- [W2: Software Design Fundamentals](Lectures/W2_Software_Design_Fundamentals.pptx)
-- [W3: Setting Up the Development Environment](Lectures/W3_Setting_Up_the_Development_Environment.pptx)
-- [W4: Core Data Integration and Preprocessing](Lectures/W4_CoreData_Integration_and_Preprocessing.pptx)
-- [W5: User Interface and Experience (GUI)](Lectures/W5_UserInterface_and_Experience.pptx)
-- [W6: Advanced Data Manipulation and Integration](Lectures/W6_AdvancedDataManipulation_and_Integration.pptx) 
-- [W7: Deep Learning Integration](Lectures/W7_Machine_learning_integration.pptx)
-- [W8: Final Polishing and Mock Presentations](Lectures/W8_Mock_presentation_and_final_polishing.pptx)
+
+- [W1: No lecture – Course orientation and project overview](Lectures/W1_Course_Orientation_Project_Overview.pptx)
+- [W2: Getting started with Ollama, Chatbox, and system prompts]
+- [W3: Collecting domain-specific data for AI training]
+- [W4: Cleaning and formatting data for LoRA training]
+- [W5: LoRA training workflow and first model build]
+- [W6: Incremental LoRA training with replay sets]
+- [W7: Deploying LoRA models in Chatbox with Ollama]
+- [W8: Advanced system prompts and prompt chaining]
+- [W9: Adding image capability to your AI assistant]
+- [W10: Combining text and image queries for better responses]
+- [W11: Preventing model drift and preserving learned skills]
+- [W12: Speed optimization with quantization]
+- [W13: Exporting and sharing AI models]
+- [W14: Merging multiple LoRAs into a unified assistant]
+- [W15: Final presentations and project showcase]
 
 ## Assignments
-[W1: Getting Started](Assignments/Week1.md) | [Accept the W1 assignment and Submit](https://classroom.github.com/a/zOjSlVz-)
+- Updating
 
-[W2: Software Design Fundamentals] | [Accept the W2 assignment and Submit](https://classroom.github.com/a/IMlL0Nk4)
+## Final Project
+- Updating
 
-[W3: Setting Up The Develepment Environment](Assignments/Week3.md) | [Accept the W3 assignment and Submit](https://classroom.github.com/a/mE2yjPkm)
+# AI Assistant Class – This Semester
 
-[W4: Core Data Integration and Preprocessing](Assignments/Week4.md) | [Accept the W4 assignment and Submit](https://classroom.github.com/a/l4hIgt0t)
-
-[W5: User Interface and Experience](Assignments/Week5.md) | [Accept the W5 assignment and Submit](https://classroom.github.com/a/cu988C4m)
-
-[W6: Advanced Data Manipulation and Integration] | [Accept the W6 assignment and Submit](https://classroom.github.com/a/WxoOwHCC)
-
-[W7: Machine Learning Integration](Assignments/W7.md)
-
-## Python scripts for Final Exam
-[Access the scripts](Assignments/Final_exam_dataset.md)
-
-# Coding Class – This Semester
-
-Welcome to our advanced coding class, where we continue building on concepts from previous semesters and dive deeper into application development, spatial/image analysis, and robust software practices.
+Welcome to our advanced AI development class, where we build a domain-specific AI assistant for remote sensing and geoscience tasks.
 
 ## Course Overview
 This semester, we will:
-1. **Apply Advanced Python Techniques**  
-   Build well-structured applications using best coding practices. We will refactor and improve codebases to maximize readability, maintainability, and scalability.
+1. **Understand AI Assistant Architecture**  
+   Explore how modern AI assistants are structured, focusing on system prompts, data integration, and LoRA fine-tuning.
 
-2. **Leverage Hyperspectral Processing Methods**  
-   Incorporate and extend the hyperspectral data processing techniques learned last semester, ensuring familiarity with image handling, data transformations, and relevant libraries.
+2. **Implement Domain-Specific Knowledge**  
+   Inject knowledge from geology, remote sensing, and hyperspectral imaging into pre-trained AI models.
 
-3. **Design User-Friendly Interfaces (CLI or GUI)**  
-   Focus on creating intuitive command-line interfaces (CLI) and/or graphical user interfaces (GUI) that enhance user experience and streamline workflows.
+3. **Develop Efficient Training Pipelines**  
+   Apply LoRA and QLoRA workflows for efficient model adaptation with limited resources.
 
-4. **Perform Spatial Analyses & Image Classification**  
-   Conduct both basic and advanced spatial analyses to interpret geospatial data. Implement image classification techniques for a variety of tasks, including remote sensing applications.
+4. **Enhance Multimodal Capabilities**  
+   Add image processing and combined text–image reasoning to improve assistant performance.
 
-5. **Design & Implement Machine Learning Models**  
-   Develop machine learning solutions tailored to image processing tasks, including feature extraction, classification, and predictive modeling with Python-based libraries.
+5. **Optimize and Deploy Models**  
+   Use quantization and packaging tools (PyInstaller, Inno Setup) for fast deployment.
 
-6. **Implement Robust Testing & Debugging Practices**  
-   Write thorough unit, integration, and system tests to ensure code reliability. Employ debugging strategies to identify and resolve issues quickly and effectively.
-
-7. **Optimize Performance & Document Software**  
-   Use profiling tools and optimization methods to enhance application performance. Maintain detailed documentation for all modules, ensuring clarity for future development and collaboration.
+6. **Evaluate and Showcase Projects**  
+   Prevent model drift, preserve learned skills, and merge multiple LoRAs into unified assistants for real-world use.
 
 ## What You Will Learn
-- Advanced Python development patterns and best practices.
-- Practical hyperspectral processing in real-world scenarios.
-- Effective user interface design for command-line and graphical applications.
-- Spatial data analysis, image classification workflows, and geospatial data handling.
-- Machine learning pipelines, including data preparation, model training, and validation.
-- Strategies for automated testing, debugging, and continuous integration.
-- Code performance optimization, resource management, and comprehensive documentation.
+- Ollama, Chatbox, and prompt-based AI assistant design.
+- Collecting, cleaning, and formatting domain-specific datasets.
+- LoRA/QLoRA workflows for fine-tuning large models.
+- Replay set strategies for incremental training.
+- Prompt chaining and advanced system prompts.
+- Multimodal AI integration (text + images).
+- Speed optimization with quantization.
+- Packaging and sharing trained assistants.
 
 ## Getting Started
-1. **Prerequisites**: A solid understanding of Python fundamentals, including scripting and basic data processing. Familiarity with Git version control.
-2. **Tools & Libraries**: Python 3.x, NumPy, pandas, GDAL, scikit-learn, TensorFlow or PyTorch (depending on the chosen ML framework), and relevant plotting/visualization libraries.
-3. **Project Structure**: You will be guided in organizing your project files to separate scripts, data, tests, and documentation in a clear, maintainable structure.
+1. **Prerequisites**: Python knowledge, basic ML concepts, and familiarity with remote sensing workflows.
+2. **Tools & Libraries**: Python 3.x, Hugging Face Transformers, Ollama, Chatbox UI, PyTorch/TensorFlow, LoRA/QLoRA libraries.
+3. **Project Structure**: Scripts, datasets, LoRA checkpoints, and deployment files organized for clarity and collaboration.
 
 ## How to Contribute
-- **Fork this Repository**: Make changes or add new features and submit Pull Requests for review.
-- **Open Issues**: Report bugs, request new features, or ask for clarifications.
-- **Share Ideas**: Collaborate with peers on discussion boards to exchange tips and best practices.
+- **Fork this Repository**: Suggest improvements and submit Pull Requests.
+- **Open Issues**: Report bugs or feature requests.
+- **Collaborate**: Share your prompts, workflows, and models with peers.
 
-We look forward to an exciting and intensive semester of coding together!
-
+We look forward to developing domain-specific AI assistants together!
+---
