@@ -1,47 +1,48 @@
-# Coding Class – This Semester
+# AI Assistant Class – This Semester
 
-Welcome to our advanced coding class, where we continue building on concepts from previous semesters and dive deeper into application development, spatial/image analysis, and robust software practices.
+Welcome to our advanced AI development class, where we focus on building a domain-specific AI assistant for remote sensing and geoscience. This course builds upon coding and machine learning concepts from previous semesters and introduces specialized methods for AI model adaptation, deployment, and optimization.
 
 ## Course Overview
 This semester, we will:
-1. **Apply Advanced Python Techniques**  
-   Build well-structured applications using best coding practices. We will refactor and improve codebases to maximize readability, maintainability, and scalability.
+1. **Understand AI Assistant Architecture**  
+   Explore the structure of AI assistants, focusing on system prompts, data integration, and LoRA fine-tuning for domain-specific tasks.
 
-2. **Leverage Hyperspectral Processing Methods**  
-   Incorporate and extend the hyperspectral data processing techniques learned last semester, ensuring familiarity with image handling, data transformations, and relevant libraries.
+2. **Implement Domain-Specific Knowledge**  
+   Collect, clean, and format datasets from geology, hyperspectral imaging, and remote sensing to inject knowledge into pre-trained AI models.
 
-3. **Design User-Friendly Interfaces (CLI or GUI)**  
-   Focus on creating intuitive command-line interfaces (CLI) and/or graphical user interfaces (GUI) that enhance user experience and streamline workflows.
+3. **Develop Efficient Training Pipelines**  
+   Apply LoRA and QLoRA workflows for efficient fine-tuning of large language models with limited compute resources.
 
-4. **Perform Spatial Analyses & Image Classification**  
-   Conduct both basic and advanced spatial analyses to interpret geospatial data. Implement image classification techniques for a variety of tasks, including remote sensing applications.
+4. **Enhance Multimodal Capabilities**  
+   Extend AI assistants to process both text and image queries, combining them for more accurate and useful responses.
 
-5. **Design & Implement Machine Learning Models**  
-   Develop machine learning solutions tailored to image processing tasks, including feature extraction, classification, and predictive modeling with Python-based libraries.
+5. **Deploy and Package AI Models**  
+   Integrate assistants into user-friendly platforms (Ollama, Chatbox UI) and package them as standalone applications using PyInstaller and Inno Setup.
 
-6. **Implement Robust Testing & Debugging Practices**  
-   Write thorough unit, integration, and system tests to ensure code reliability. Employ debugging strategies to identify and resolve issues quickly and effectively.
+6. **Prevent Model Drift & Optimize Performance**  
+   Implement strategies to preserve learned skills, prevent drift, and optimize runtime with quantization.
 
-7. **Optimize Performance & Document Software**  
-   Use profiling tools and optimization methods to enhance application performance. Maintain detailed documentation for all modules, ensuring clarity for future development and collaboration.
+7. **Showcase and Share Projects**  
+   Merge multiple LoRAs, export models for sharing, and present your final AI assistant project.
 
 ## What You Will Learn
-- Advanced Python development patterns and best practices.
-- Practical hyperspectral processing in real-world scenarios.
-- Effective user interface design for command-line and graphical applications.
-- Spatial data analysis, image classification workflows, and geospatial data handling.
-- Machine learning pipelines, including data preparation, model training, and validation.
-- Strategies for automated testing, debugging, and continuous integration.
-- Code performance optimization, resource management, and comprehensive documentation.
+- Fundamentals of AI assistant design and system prompts.  
+- Techniques for collecting and cleaning domain-specific datasets.  
+- LoRA/QLoRA workflows for parameter-efficient fine-tuning.  
+- Replay set strategies for incremental training.  
+- Advanced prompt engineering and prompt chaining.  
+- Adding multimodal (text + image) capabilities to AI assistants.  
+- Quantization for speed and efficiency.  
+- Packaging, exporting, and sharing domain-specific models.  
 
 ## Getting Started
-1. **Prerequisites**: A solid understanding of Python fundamentals, including scripting and basic data processing. Familiarity with Git version control.
-2. **Tools & Libraries**: Python 3.x, NumPy, pandas, GDAL, scikit-learn, TensorFlow or PyTorch (depending on the chosen ML framework), and relevant plotting/visualization libraries.
-3. **Project Structure**: You will be guided in organizing your project files to separate scripts, data, tests, and documentation in a clear, maintainable structure.
+1. **Prerequisites**: Python proficiency, basic machine learning knowledge, and familiarity with remote sensing workflows.  
+2. **Tools & Libraries**: Python 3.x, Hugging Face Transformers, Ollama, Chatbox UI, PyTorch/TensorFlow, LoRA/QLoRA frameworks.  
+3. **Project Structure**: Organized folders for scripts, datasets, LoRA checkpoints, and deployment files to ensure clarity and maintainability.  
 
 ## How to Contribute
-- **Fork this Repository**: Make changes or add new features and submit Pull Requests for review.
-- **Open Issues**: Report bugs, request new features, or ask for clarifications.
-- **Share Ideas**: Collaborate with peers on discussion boards to exchange tips and best practices.
+- **Fork this Repository**: Suggest improvements and submit Pull Requests for review.  
+- **Open Issues**: Report bugs, request features, or ask for clarifications.  
+- **Collaborate**: Share prompts, training data, and workflows with peers.  
 
-We look forward to an exciting and intensive semester of coding together!
+We look forward to building and showcasing powerful domain-specific AI assistants together!
