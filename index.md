@@ -9,27 +9,27 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures/
 
 ## Lectures 2025
 
-- [W1: No lecture – Course orientation and project overview](2025_AI_Lectures/Continual Learning AI Assistant.pptx)
-- [W2: Getting started with Ollama, Chatbox, and system prompts]
-- [W3: Collecting domain-specific data for AI training]
-- [W4: Cleaning and formatting data for LoRA training]
-- [W5: LoRA training workflow and first model build]
-- [W6: Incremental LoRA training with replay sets]
-- [W7: Deploying LoRA models in Chatbox with Ollama]
-- [W8: Advanced system prompts and prompt chaining]
-- [W9: Adding image capability to your AI assistant]
-- [W10: Combining text and image queries for better responses]
-- [W11: Preventing model drift and preserving learned skills]
-- [W12: Speed optimization with quantization]
-- [W13: Exporting and sharing AI models]
-- [W14: Merging multiple LoRAs into a unified assistant]
-- [W15: Final presentations and project showcase]
+- [W1: No lecture – Course orientation and project overview](2025_AI_Lectures/Continual_Learning_AI_Assistant.pptx)
+- W2: Getting started with Ollama, Chatbox, and system prompts
+- W3: Collecting domain-specific data for AI training
+- W4: Cleaning and formatting data for LoRA training
+- W5: LoRA training workflow and first model build
+- W6: Incremental LoRA training with replay sets
+- W7: Deploying LoRA models in Chatbox with Ollama
+- W8: Advanced system prompts and prompt chaining
+- W9: Adding image capability to your AI assistant
+- W10: Combining text and image queries for better responses
+- W11: Preventing model drift and preserving learned skills
+- W12: Speed optimization with quantization
+- W13: Exporting and sharing AI models
+- W14: Merging multiple LoRAs into a unified assistant
+- W15: Final presentations and project showcase
 
 ## Assignments
-- Updating
+- _Updating_
 
 ## Final Project
-- Updating
+- _Updating_
 
 # AI Assistant Class – This Semester
 
@@ -76,4 +76,3 @@ This semester, we will:
 - **Collaborate**: Share your prompts, workflows, and models with peers.
 
 We look forward to developing domain-specific AI assistants together!
----
