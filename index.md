@@ -5,7 +5,7 @@ This is the homepage for this semester’s course. Here you can find:
 - Homework instructions and due dates
 - Submission guidelines
 
-Please explore the repository, and check the [lectures folder](2025_AI_Lectures/) for your reading materials.
+Please explore the repository, and check the [lectures folder](2025_AI_Lectures) for your reading materials.
 
 ## Lectures 2025
 
