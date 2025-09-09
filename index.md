@@ -26,7 +26,7 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures)
 - W15: Final presentations and project showcase
 
 ## Assignments
-- [W2: Getting started](2025_AI_Lectures/Assignment/Week2.md)
+- [W2: Getting started](2025_AI_Lectures/Assignment/Week2.md) [Click here to accept and submit your assignment](https://classroom.github.com/a/1cYi8Xds)
 
 ## Final Project
 - _Updating_
