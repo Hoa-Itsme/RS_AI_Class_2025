@@ -27,6 +27,7 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures)
 
 ## Assignments
 - [W2: Getting started](2025_AI_Lectures/Assignment/Week2.md) | [Submit your assignment here](https://classroom.github.com/a/1cYi8Xds)
+- [W3: Collecting domain data](2025_AI_Lectures/Assignment/Week3.md) | [Submit your assignment here](https://classroom.github.com/a/SO-XDfn_)
 
 ## Final Project
 - _Updating_
