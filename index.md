@@ -11,7 +11,7 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures)
 
 - [W1: No lecture – Course orientation and project overview](2025_AI_Lectures/Continual_Learning_AI_Assistant.pptx)
 - [W2: Getting started with Ollama, Chatbox, and system prompts](2025_AI_Lectures/W2_Getting_started.pptx)
-- W3: Collecting domain-specific data for AI training
+- [W3: Collecting domain-specific data for AI training](2025_AI_Lectures/W3_Collecting_domain_data.pptx)
 - W4: Cleaning and formatting data for LoRA training
 - W5: LoRA training workflow and first model build
 - W6: Incremental LoRA training with replay sets
