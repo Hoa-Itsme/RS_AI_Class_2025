@@ -1,4 +1,4 @@
-# Week 4 Assignment – Preparing Training Data (Cleaning → Chunking → Metadata)
+# Week 4 Assignment – Cleaning and formatting data
 
 ## Objective
 This week’s assignment is to practice preparing raw academic documents into structured data for LLM fine-tuning.  
