@@ -1,4 +1,4 @@
-# Week 4 Assignment – Cleaning and formatting data
+# Week 4 Assignment – Preparing Training Data (Cleaning → Chunking → Metadata → I–A)
 
 ## Objective
 This week’s assignment is to practice preparing raw academic documents into structured data for LLM fine-tuning.  
@@ -6,6 +6,7 @@ The focus is on:
 1. **Cleaning** raw extracted text  
 2. **Chunking** cleaned text into manageable pieces  
 3. **Adding metadata** for organization and retrieval  
+4. **Building Instruction–Answer (I–A) examples**  
 
 ---
 
@@ -28,29 +29,25 @@ The focus is on:
 ---
 
 ### Part C – Chunking
-- Split each cleaned file into smaller segments (“chunks”) of around **500–1,000 words** with a small overlap (e.g., 50–100 words).  
+- Split each cleaned file into smaller segments (“chunks”) of around **500 words** with **50 words overlap**.  
 - Save the result as `chunks.json` for each file.  
 
 ---
 
 ### Part D – Metadata
-- Add metadata to each chunk (e.g., title, year, tags, section).  
+- Add minimal metadata to each chunk (e.g., title, year, tags, section).  
 - Save the final version as `chunks_with_metadata.json`.  
 
 ---
 
-## Deliverables
-Each team must submit:  
-1. All `raw_text.txt` files (at least 10).  
-2. All `clean_text.txt` files.  
-3. Corresponding `chunks.json` files.  
-4. Final `chunks_with_metadata.json` files.  
+### Part E – Build Instruction–Answer (I–A)
+- From the `chunks_with_metadata.json`, create at least **20 instruction–answer pairs per team**.  
+- Each **Instruction (I)** should be a natural language question a user might ask.  
+- Each **Answer (A)** should be drawn directly from the chunk text (clean, paraphrased if needed).  
 
----
-
-## Notes
-- **Next week** we will build **Instruction–Answer (I–A) datasets** from these chunks.  
-- Keep your work well-organized by topic/paper.  
-- You may use Python scripts provided in lecture or your own tools.  
-
----
+**Example:**
+```json
+{
+  "instruction": "What are the main carbonate rock types identified in the study?",
+  "answer": "The study classified carbonate rocks into limestone and dolostone, with marble and impure limestone merged into the limestone category for mapping."
+}
