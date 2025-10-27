@@ -30,7 +30,8 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures)
 - [W3: Collecting domain data](2025_AI_Lectures/Assignment/Week3.md) | [Submit your assignment here](https://classroom.github.com/a/SO-XDfn_)
 - [W4: Cleaning and formatting data](2025_AI_Lectures/Assignment/Week4.md) | [Get the materials here](2025_AI_Lectures/Week4_materials/W4_materials.zip) | [Submit your data results here](https://classroom.github.com/a/tDN_yXQE)
 - [W5: LoRA training workflow and first model build](2025_AI_Lectures/Assignment/Week5.md) | [Submit your assignment here](https://classroom.github.com/a/GdlSWNE8)
-  
+- [W6: Incremental LoRA with replay sets](2025_AI_Lectures/Assignment/Week6.md) | [Submit your assignment here](https://classroom.github.com/a/qjAkON0S)
+
 ## Final Project
 - _Updating_
 
