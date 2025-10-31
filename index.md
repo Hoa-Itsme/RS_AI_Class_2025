@@ -14,7 +14,7 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures)
 - [W3: Collecting domain-specific data for AI training](2025_AI_Lectures/W3_Collecting_domain_data.pptx)
 - [W4: Cleaning and formatting data for LoRA training](2025_AI_Lectures/W4_Cleaning_formatting_data.pptx)
 - [W5: LoRA training workflow and first model build](2025_AI_Lectures/W5_Fine_tuning_workflow.pptx)
-- W6: Incremental LoRA training with replay sets
+- [W6: Incremental LoRA training with replay sets](2025_AI_Lectures/W6_Incremental_LoRA_with_replay_sets.pptx)
 - W7: Deploying LoRA models in Chatbox with Ollama
 - W8: Advanced system prompts and prompt chaining
 - W9: Adding image capability to your AI assistant
