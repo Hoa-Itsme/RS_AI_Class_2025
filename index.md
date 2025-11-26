@@ -35,7 +35,7 @@ Please explore the repository, and check the [lectures folder](2025_AI_Lectures)
 
 
 ## Final Project
-- _Updating_
+- [Check your final project here](2025_AI_Lectures/Assignment/Week8.md)
 
 # AI Assistant Class – This Semester
 
